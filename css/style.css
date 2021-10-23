@@ -1,0 +1,38 @@
+header{ 
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin-top: 5vh;
+}
+img{
+    width: 25%;
+}
+
+
+h4{
+    color: cornsilk;
+    background-color: blue;
+    
+}
+
+.paracolor{
+    color: blue;
+    margin: auto;
+    font-size: zero;
+}
+.text-bold{
+    font-weight: 800;
+    pa;
+}
+
+.text-color{
+    color: blue;
+    font-weight: 800;
+
+}
+
+.d{
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
